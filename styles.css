@@ -1,0 +1,53 @@
+body {
+  background: #fff url("starter-code/images/bgtile.png") repeat-x;
+  font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+  }
+p {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.page {
+    margin: 90px auto;
+    max-width: 950px;
+}
+.content {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.main {
+  background: url("starter-code/images/frame.png");
+  /*min-height: 200px;*/
+  padding: 40px;
+  width: 420px;
+  max-height: 200px;
+}
+.main h2 {
+  color: #06365f;
+  font-size: 30px:
+}
+.main a {
+
+    padding: 10px;
+    margin: 10px
+}
+.google {
+    float: right;
+    position: absolute;
+}
+.footer{
+  text-align: center;
+  list-style: none;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 10px;
+}
+.footer a {
+  color: black;
+}
+li {
+  display: inline;
+  margin: 5px;
+}
